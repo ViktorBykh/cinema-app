@@ -1,7 +1,7 @@
 # <h1 align="center"> <img src="https://em-content.zobj.net/thumbs/120/apple/354/movie-camera_1f3a5.png" width="35"/> Cinema-app <img src="https://em-content.zobj.net/thumbs/120/apple/354/movie-camera_1f3a5.png" width="35"/> </h1>
-#### <h4 align="center"> [Project description](https://github.com/ViktorBykh/cinema-app#-project-description) • [Features](https://github.com/ViktorBykh/cinema-app#-project-structure) • [Project Structure](https://github.com/ViktorBykh/cinema-app#-project-structure) • [Technologies used](https://github.com/ViktorBykh/cinema-app#-technologies-used) • [Instructions for launching the project](https://github.com/ViktorBykh/cinema-app#-instructions-for-launching-the-project)
+#### <h4 align="center"> [Project description](https://github.com/ViktorBykh/cinema-app#-project-description) • [Features](https://github.com/ViktorBykh/cinema-app#-project-structure) • [Project Structure](https://github.com/ViktorBykh/cinema-app#-project-structure) • [Hibernate UML diagram](https://github.com/ViktorBykh/cinema-app#-hibernate-uml-diagram) • [Technologies used](https://github.com/ViktorBykh/cinema-app#-technologies-used) • [Instructions for launching the project](https://github.com/ViktorBykh/cinema-app#-instructions-for-launching-the-project)
 
-## <img src="https://em-content.zobj.net/thumbs/120/apple/354/light-bulb_1f4a1.png" width="30"/> **Project description:**
+## <img src="https://em-content.zobj.net/thumbs/120/apple/354/light-bulb_1f4a1.png" width="25"/> **Project description:**
 `A web application that offers the functionality of a cinema service for authentication, registration, and CRUD operations`
 
 ### <img src="https://em-content.zobj.net/thumbs/120/apple/354/direct-hit_1f3af.png" width="20"/> Features:
