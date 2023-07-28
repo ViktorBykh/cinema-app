@@ -44,7 +44,7 @@
 * Make sure you have Java 17, Maven 3.1.1, MySQL 8.0.22 installed on your system
 * Fork the project from the [repository](https://github.com/ViktorBykh/cinema-app)
 * To clone the project, click on the "Code" button and select either the HTTPS or SSH URL
-* Configure [Apache Tomcat](https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/) version: 9.0.50 C:\Users\bykhv\IdeaProjects\cinema-app\src\main\resources\db.properties
+* Configure [Apache Tomcat](https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/) version:
 * To set the necessary parameters, edit the [db.properties](https://github.com/ViktorBykh/cinema-app/tree/main/src/main/resources/db.properties) file:
   * [x] db.driver=YOUR_DRIVER 
   * [x] db.url=YOUR_DATABASE_URL 
